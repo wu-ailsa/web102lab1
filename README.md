@@ -1,4 +1,9 @@
-# Vite Project Setup
+# Intermediate Web Development Spring 2025
+## Lab 1: Timetabled
+![Lab 1 Recap: Time Tabled](./timetabledrecap.png)
+
+
+## Vite Project Setup
 
 Follow these steps to create and run your project:
 
